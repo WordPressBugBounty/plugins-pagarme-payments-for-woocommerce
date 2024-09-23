@@ -1,0 +1,1 @@
+# plugins-pagarme-payments-for-woocommerce
