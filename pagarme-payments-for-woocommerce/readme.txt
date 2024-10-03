@@ -4,7 +4,7 @@ Tags: payment, pagarme, ecommerce, brasil, woocommerce
 Requires at least: 4.1
 Tested up to: 6.5.5
 Requires PHP: 7.1
-Stable tag: 3.4.0
+Stable tag: 3.4.1
 License: MIT
 License URI: https://github.com/pagarme/woocommerce/blob/master/LICENSE
 
@@ -24,6 +24,14 @@ Nosso processo de instalação é simples e bem detalhado:
 
 == Changelog ==
 Lançamos versões regularmente com melhorias, correções e atualizações.
+
+= 3.4.1 (03/10/2024) =
+Você pode conferir essas atualizações aqui: [Github](https://github.com/pagarme/woocommerce/releases/tag/3.4.1)
+
+* **Correções:**
+  *  Link para desintegrar chamando endpoint incorretamente;
+  *  Problemas com tokenização.
+
 
 = 3.4.0 (01/10/2024) =
 Você pode conferir essas atualizações aqui: [Github](https://github.com/pagarme/woocommerce/releases/tag/3.4.0)
